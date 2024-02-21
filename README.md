@@ -1,6 +1,8 @@
 
 # Credit-Card-Approval-Rate-Prediction
-Introduction
+**Introduction**
+
+
 In the ever-evolving landscape of banking, the efficient evaluation of credit card applicants is paramount. My project delves into the world of predictive analytics and machine learning to enhance the credit approval process. Focusing on a dataset encompassing diverse customer attributes, I aim to answer critical questions surrounding income, gender, assets, education, and marital status in relation to credit card approval. By leveraging data-driven insights, My objective is to revolutionize the credit scoring model, providing banks with a robust tool to make informed decisions, mitigate risks, and ultimately shape the future of credit assessment in the financial sector.
 
 Attributes Description
